@@ -1,17 +1,17 @@
-<h1 align="center">Hi, I'm Jay Joshi</h1>
+<h1 align="center">Hi 👋, I'm Jay Joshi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- currently working on **Internship in Octanet pvt Ltd**
+- 🔭 I’m currently working on **Internship in Octanet pvt Ltd**
 
-- currently learning **React, & Backend frameworks.**
+- 🌱 I’m currently learning **React, & Backend frameworks.**
 
-- looking to collaborate on **Full stack Development**
+- 👯 I’m looking to collaborate on **Full stack Development**
 
-- Ask me about **Javascript, Python & django**
+- 💬 Ask me about **Javascript, Python & django**
 
-- How to reach me **jj623196@gmail.com**
+- 📫 How to reach me **jj623196@gmail.com**
 
-- Know about my experiences [https://drive.google.com/file/d/1cdNDAFMB9HCp7yBgxyM2hMwX3WmsvpJA/view?usp=drivesdk](https://drive.google.com/file/d/1cdNDAFMB9HCp7yBgxyM2hMwX3WmsvpJA/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cdNDAFMB9HCp7yBgxyM2hMwX3WmsvpJA/view?usp=drivesdk](https://drive.google.com/file/d/1cdNDAFMB9HCp7yBgxyM2hMwX3WmsvpJA/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
