@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Joshi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently studing **MCA in LJ University**
-
 - 🌱 I’m currently learning **React, & Backend frameworks.**
 
 - 👯 I’m looking to collaborate on **Full stack Development**
