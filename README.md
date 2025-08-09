@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Improving AI Driven Software Development and implementing backend architecture.<br><br>👯 I’m looking to collaborate on:<br>Full stack projects<br><br>🌱 I’m currently learning:<br>AI based services and Cloud services.<br><br>💬 Ask me about:<br>JavaScript, React, Next.js, Node.js, Python, Django and any general software development questions.<br><br>⚡ Fun fact:<br>Most people scroll Instagram — I scroll npm packages, AI docs, and random GitHub readmes.
+🔭 I’m currently working on:<br>Improving AI-driven software development and backend architecture while actively building solutions for both client projects and personal initiatives.<br><br>👯 I’m looking to collaborate on:<br>Full stack projects<br><br>🌱 I’m currently learning:<br>AI based services and Cloud services.<br><br>💬 Ask me about:<br>JavaScript, React, Next.js, Node.js, Python, Django and any general software development questions.<br><br>⚡ Fun fact:<br>Most people scroll Instagram — I scroll npm packages, AI docs, and random GitHub readmes.
 
 
 ## 🌐 Socials:
