@@ -29,7 +29,7 @@ When I’m not coding, I spend time reading tech blogs on Medium and exploring o
 
 ## 🌍 Location & Contact
 
-📍 **Based in**: Ahmedabad, Gujarat.
+📍 **Based in**: Ahmedabad, Gujarat
 ✉️ **Email**: [jayjoshi2784@gmail.com](mailto:jayjoshi2784@gmail.com)  
 🔗 **LinkedIn**: [Jay Joshi](https://www.linkedin.com/in/jay-joshi2708/)  
 📸 **Instagram**: [@jay._.joshi._](https://instagram.com/jay._.joshi._)
