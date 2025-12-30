@@ -5,7 +5,7 @@
 **`Full Stack Developer | MCA Graduate | AI Integration Enthusiast`**
 
 Welcome to my GitHub — the place where I design, debug, and deploy ideas 🚀.  
-I’m currently a **Full Stack Freelancer**, where I’m:
+I’m currently a **Freelancer Full Stack Freelancer**, where I’m:
 
 - Building cross-platform MERN Stack applications using MongoDB Atlas for real-time cloud data management.
 - Developing a Language Pronunciation App (SpeakWise) for production-level deployment.
@@ -33,7 +33,7 @@ When I’m not coding, I spend time reading tech blogs on Medium and exploring o
 ✉️ **Email**: [jayjoshi2784@gmail.com](mailto:jayjoshi2784@gmail.com)  
 🔗 **LinkedIn**: [Jay Joshi](https://www.linkedin.com/in/jay-joshi2708/)  
 📸 **Instagram**: [@jay._.joshi._](https://instagram.com/jay._.joshi._)
-🌐 **Portfolio**: _(coming soon)_
+🌐 **Portfolio**: [Portfolio](https://jay-joshi.vercel.app)
 
 ## 🧠 Currently Learning
 
